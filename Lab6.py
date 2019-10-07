@@ -40,3 +40,9 @@ while Grade != "n":
         print("The grade average is", round(total / count, 1))
         break
 
+# Complete exercise 7.4:
+# Write a function that takes a string as a parameter and returns True if the string is a palindrome, and False otherwise. 
+# This function should use a while loop. 
+# Hint: A palindrome is a word that is spelled the same forward and backward.
+
+def thePalindrome():
